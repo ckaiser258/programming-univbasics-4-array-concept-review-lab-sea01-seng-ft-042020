@@ -5,7 +5,7 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  new_arrayarray.sort
+  array.sort
   p array[array.length - 1]
 end
 
